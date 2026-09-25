@@ -15,10 +15,10 @@
 
 <details><summary>Переглянути чотири сторінки (статичні знімки)</summary>
 
-![Overview](images/overview.png)
-![Customer Behavior](images/customer_behavior.png)
-![Products & Operations](images/products_operations.png)
-![Synthetic Data Audit](images/synthetic_data_audit.png)
+![Overview](images/overview.webp)
+![Customer Behavior](images/customer_behavior.webp)
+![Products & Operations](images/products_operations.webp)
+![Synthetic Data Audit](images/synthetic_data_audit.webp)
 
 </details>
 
